@@ -5,7 +5,6 @@ Assistente de TI com atuação em desenvolvimento, em Lajeado (RS). Trabalho ent
 - 🛒 Desenvolvi o sistema de **compras e almoxarifado** de uma rede de concessionárias, da requisição à entrada no estoque
 - 📦 Integro sistemas web ao **ERP via Oracle** para inventário de peças
 - 🔐 Criei um **portal de login único** para os sistemas internos
-- 🤖 Uso o **Claude Code** como parceiro de desenvolvimento, com especificação antes do código e teste antes do deploy
 
 **[Ver portfólio completo →](https://josejungheinen.github.io/Portifolio/)**
 
