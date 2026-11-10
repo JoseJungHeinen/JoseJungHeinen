@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B6BFF&height=190&section=header&text=Jos%C3%A9%20Henrique%20Jung%20Heinen&fontSize=34&fontColor=ffffff&fontAlignY=36&desc=Assistente%20de%20TI%20%C2%B7%20Desenvolvimento%20de%20sistemas%20web&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="José Henrique Jung Heinen"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B6BFF&height=190&section=header&text=Jos%C3%A9%20Henrique%20Jung%20Heinen&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Assistente%20de%20TI%20%C2%B7%20Desenvolvimento%20de%20sistemas%20web&descSize=22&descAlignY=56&animation=fadeIn" width="100%" alt="José Henrique Jung Heinen"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B6BFF&center=true&vCenter=true&width=620&lines=Sistemas+web+em+PHP%2C+MySQL+e+Oracle;Compras%2C+estoque%2C+invent%C3%A1rio+e+notas+fiscais;Do+chamado+ao+sistema+que+resolve" alt="Sistemas web em PHP, MySQL e Oracle"/>
 
@@ -41,7 +41,6 @@ Assistente de TI com atuação em desenvolvimento, em Lajeado (RS). Trabalho ent
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JoseJungHeinen&locale=pt_BR&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Sequência de contribuições"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseJungHeinen&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
 
 </div>
 
